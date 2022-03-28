@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#titulo {
+    font-family:<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto:wght@100&display=swap" rel="stylesheet">;
+   
+    
+}
+#subtitulo {
+  font-family:<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto:wght@100&display=swap" rel="stylesheet">;
+    margin-left: 14%;
+}
+#titulo #subtitulo
+{
+    position:absolute;
+    display:block;
+}
+
+fieldset {
+    border:0;
+}
+
+body {
+    
+    font-family: <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto:wght@100&display=swap" rel="stylesheet">;
+    font-size: 18px;
+    margin-left: 36%;
+    margin-top: 2%;
+    justify-content: center;
+    background-color:gold;
+   
+}
+ input, button {
+     border-radius: 5px;
+  
+ }
+
+ .campo{
+margin-bottom: 1em;
+ }
+  #form input.campo{
+      position:absolute;
+      left:95px;
+      top: 23px;
+      width: 225px;
+  }
